@@ -1,0 +1,51 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W                                                                              W
+W                                                                              W
+WWWWW          WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                       W
+WWWWWWW                                                W                       W
+WWWWWWWWW                                              W                       W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW       W                       W
+W                                                      W                       W
+W                                                      W                       W
+W       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWWWWWWWWW
+W       W                                                                      W
+W       W                                                                      W
+W       W          WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W       W                                                          WWWWWWWWWWWWW
+W       W                                                          WWWWWWWWWWWWW
+W       WWWWWWWWWW       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW           WWWWWWWWWWWWW
+W                W       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW           WWWWWWWWWWWWW
+W                W       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                       W
+W                WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                       2
+W                WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                       2
+W                WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                       W
+WWWWWWWW11WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWW                                            WWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWW    L                                       WWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWW                                            WWWWWWWWWWWWWWWWWW
+
+Elements
+Player1 10 20
+Player2 11 20
+Summon_enemy 53 2
+Key 22 17
+Riddle 10 18
+Riddle 3 20
+Riddle 4 20
+Breakable_wall 1 15 0
+Breakable_wall 2 15 0
+Breakable_wall 3 15 0
+Breakable_wall 4 15 0
+Breakable_wall 5 15 0
+Breakable_wall 6 15 0
+Breakable_wall 7 15 0
+Bomb 16 20
+Bomb 40 2
+Enemy 10 2
+Locked
+Door_dest 1 1
+Door_dest 2 3
+
+
+
+

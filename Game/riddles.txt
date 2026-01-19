@@ -1,0 +1,104 @@
+Q: Roses are red, violets are blue,\nyou should be scared of me, if you won't be\ncareful ,I will eat you.\n Who am I?
+A: spring
+B: key
+C: enemy
+D: torch
+ANS: c			
+
+Q: I can travel the world, cross all around the globe,\nwhile staying in one corner.\nWhat am I?
+A: a witch
+B: a stamp			
+C: a hole
+D: none of the above
+ANS: b
+		
+Q: I am always hungry, i must always be fed.\nthe finger i touch will soon turn red.\nWhat am I?
+A: an angry baby
+B: a fire
+C: nail polish
+D: none of the above		
+ANS: b
+
+Q: I have cities, but no houses.\nI have mountains, but no trees.\nI have water, but no fish.\nWhat am I?
+A: a map
+B: a painting
+C: a desert
+D: none of the above
+ANS: a
+			
+Q: I speak without a mouth and hear without ears.\nI have nobody, but I come alive with wind.\nWhat am I?
+A: an echo
+B: a ghost
+C: a shadow
+D: none of the above
+ANS: a
+
+Q: The more of me you take, the more you leave behind.\nwhat am i?
+A: memories
+B: time
+C: footsteps
+D: none of the above
+ANS: c
+
+Q: I can run, but u have no legs.\n I have a mouth, but never speak.\n I have a head, but never weep.\nWhat am I?
+A: memories
+B: time
+C: footsteps
+D: none of the above
+ANS: c
+
+Q: What has keys but can't open locks?
+A: a piano
+B: a map
+C: a lockpick
+D: none of the above
+ANS: a
+
+Q: What can fill a room but takes up no space?
+A: sound
+B: air
+C: light
+D: none of the above
+ANS: c
+
+Q: What has to be broken before you can use it?
+A: a secret
+B: an egg
+C: a code
+D: none of the above
+ANS: b
+
+Q: What goes up but never comes down?
+A: smoke
+B: a vibe
+C: your age
+D: none of the above
+ANS: c
+
+Q: What you can catch, but never throw?
+A: a question
+B: big mac
+C: a cold
+D: none of the above
+ANS: c
+
+Q: What has one eye, but can't see?
+A: a needle
+B: a storm
+C: a potato
+D: none of the above
+ANS: a
+
+Q: What has many teeth, but can't bite?
+A: a saw
+B: a comb
+C: a zipper
+D: none of the above
+ANS: b
+
+Q: What do you call a fake noodle?
+A: rigattoni
+B: an impasta
+C: a noodless
+D: none of the above
+ANS: b

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\DynamicWall.h.obj",
+            "outputs": [
+                "C:\\Users\\nofar\\source\\repos\\Game\\Game\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\nofar\\source\\repos\\Game\\Game\\x64\\Debug\\DynamicWall.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "DynamicWall.h",
+                    "source-path": "c:\\users\\nofar\\source\\repos\\game\\game\\dynamicwall.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+﻿  Scanning sources for module dependencies...
+  Room.cpp
+C:\Users\nofar\source\repos\Game\Game\Obstacle.h(22,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Room.cpp')
+  
+C:\Users\nofar\source\repos\Game\Game\Drawer.h(60,25): warning C4114: same type qualifier used more than once
+  (compiling source file 'Room.cpp')
+  
+C:\Users\nofar\source\repos\Game\Game\Drawer.h(60,46): warning C4114: same type qualifier used more than once
+  (compiling source file 'Room.cpp')
+  
+C:\Users\nofar\source\repos\Game\Game\Drawer.h(79,26): warning C4114: same type qualifier used more than once
+  (compiling source file 'Room.cpp')
+  
+C:\Users\nofar\source\repos\Game\Game\Drawer.h(79,47): warning C4114: same type qualifier used more than once
+  (compiling source file 'Room.cpp')
+  
+C:\Users\nofar\source\repos\Game\Game\Room.h(74,25): warning C4114: same type qualifier used more than once
+  (compiling source file 'Room.cpp')
+  
+C:\Users\nofar\source\repos\Game\Game\Room.h(74,46): warning C4114: same type qualifier used more than once
+  (compiling source file 'Room.cpp')
+  
+  Game.vcxproj -> C:\Users\nofar\source\repos\Game\x64\Debug\Game.exe

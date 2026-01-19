@@ -1,0 +1,24 @@
+                
+                   WELCOME TO THE GREATEST MAZE!                       
+    your goal: Escape together without killing each other :)                                                                                            
+    |    Action     |   Player 1    |   Player 2   |    |                       
+    -------------------------------------------------   |                       
+    |      UP       |       W       |       I      |    |                       
+    |     DOWN      |       X       |       M      |    |   !TO EXIT THE GAME!  
+    |     LEFT      |       A       |       J      |    |       Press ESC       
+    |     RIGHT     |       D       |       L      |    |    and than press H   
+    |     STAY      |       S       |       K      |    |                       
+    | DISPOSE ITEM  |       E       |       O      |    |                       
+    |  SYM  |   OBJECT    |  SYM  |    OBJECT    |  SYM  |    OBJECT    |       
+    --------------------------------------------------------------------        
+    | @ / $ |  Players    |   W   |     Wall     |  1-9  |     Door     |       
+    |   K   |     Key     |   *   |   Obstacle   |   #   |    Spring    |       
+    |   !   |    Torch    |   ?   |    Riddle    |  / \  |    Switch    |       
+    |   E   |    Enemy    |   @   |     Bomb     |   H   |    Heart     |       
+    |   ^   |   Spikes    |   L   | Press Plate  |   [   | Dynamic Wall |       
+    |  |/-  | Break Wall  |   S   | Light switch |       |              |       
+  Bomb can't destroy W wall with bomb but can breakable wall | or Dynamic Wall [
+              Spring: Hold to charge! | Bomb: Pick, place, RUN!                 
+              Hearts heal you (max 3) | Enemy follows you - BEWARE!  
+              to enter winning room each player must have *50* points!
+           PRESS ANY KEY TO GO BACK TO MENU AND START THE MADNESS...

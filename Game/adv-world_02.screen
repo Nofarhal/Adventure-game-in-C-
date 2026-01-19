@@ -1,0 +1,89 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                   WWWWWWW
+W         WWWWWWW            WWWWWWWWW                                   W     W
+W                            WWWWWWWWW                                   W     1
+W    WWWWWWWWW               WWWWWWWWW                                   W     1
+W    WWWWWWWWW                                                           W     W
+W    WWWWWWWWW                                                           W     W
+W    WWWWWWWWW                                                           W     W
+W    WWWWWWWWW                                                           W     W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                      W     W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                      W     W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                      W     W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW   WWWWWWWWWWWWWWW     W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                         W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                         W
+W    WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                                         W
+W                                    W                                         W
+W                                    W                                         W
+W                                    W                                         W
+W                                    W                                         W
+W                                    W                                         W
+WWWWWWWWWWWWWWWWWWWWWWW222WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWW                                            WWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWW    L                                       WWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWW                                            WWWWWWWWWWWWWWWWWW
+
+
+Elements
+Player1 77 4
+Player2 77 5
+Obstacle 13 3
+Key 33 20
+Pressure_plate 5 20 1
+Spikes 1 15 
+Spikes 1 14 
+Spikes 1 13 
+Spikes 1 12 
+Spikes 1 11 
+Spikes 1 10 
+Spikes 1 9 
+Spikes 1 8 
+Spikes 1 7 
+Spikes 1 6 
+Spikes 4 15 
+Spikes 4 14 
+Spikes 4 13 
+Spikes 4 12 
+Spikes 4 11 
+Spikes 4 10 
+Spikes 4 9 
+Spikes 4 8 
+Spikes 4 7 
+Spikes 4 6 
+Dynamic_wall 30 20 1
+Dynamic_wall 30 19 1
+Dynamic_wall 30 18 1
+Dynamic_wall 30 17 1
+Dynamic_wall 30 16 1
+Riddle 60 11 
+Riddle 30 5 
+Riddle 31 5 
+Riddle 32 5 
+Riddle 30 6 
+Riddle 31 6 
+Riddle 32 6 
+Riddle 30 7 
+Riddle 31 7 
+Riddle 32 7 
+Riddle 30 8 
+Riddle 31 8 
+Riddle 32 8 
+Door_switch 1 20 2 
+Door_switch 40 2 2 
+Required_switches 2 2
+Torch 78 11
+Bomb 33 17
+Light_switch 77 20 
+Dark
+Locked
+Door_dest 1 0
+Door_dest 2 2
+
+
+
+		
+
+                                                                                
+                                                                                
+                                                                                
